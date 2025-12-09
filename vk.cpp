@@ -4,6 +4,6 @@ int main(){
  	int a=10;
 	int b=23;
 	int c=a+b;
-	printf("c",c);
+	printf(" the additon of two no is %d",c);
 	return 0;
 }
